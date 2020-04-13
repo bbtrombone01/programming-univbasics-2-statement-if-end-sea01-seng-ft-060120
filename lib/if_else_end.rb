@@ -1,3 +1,3 @@
 # Write your solution here
-if Time.now % 1 = 0
+if Time.now % 2 = 0
   puts "progress"
